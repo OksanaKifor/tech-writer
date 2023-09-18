@@ -2,3 +2,16 @@ This is a testing project
 It will help me to understand how to create README file and attach it to github and also to understand how github works
 There is no need for users to get started with the project or get help - this is primary for testing purposes
 I am the main contributor for this project
+The extract from sample work:
+The Product X feature is aimed to collect and display computer metrics (CPU utilization,
+memory and disk usage) to further analyze and assess computer system performance
+How and when the feature can be used
+● when system monitoring is needed (including servers and infrastructure)
+● to optimize resource allocation
+● to plan capacity (for hardware upgrade or scaling infrastructure)
+● for system diagnostics (after slowdowns or failures happened)
+● for security monitoring (unusual CPU can be a sign of security issues)
+● for cost management
+● to measure the amount of apps used, their performance and user experience
+The outcome: maintain system performance, optimize resource allocation, identify files and
+directories that hold a significant amount of space and can be cleaned or archived.
